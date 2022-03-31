@@ -1,0 +1,21 @@
+{
+  "name": "generator-lyw-react",
+  "version": "0.1.2",
+  "description": "",
+  "author": {
+    "name": "aloulou",
+    "email": "wsxrk007@163.com",
+    "url": ""
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "repository": "lourain/generator-lyw-react",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
