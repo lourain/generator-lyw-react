@@ -1,0 +1,8 @@
+.eslintrc.json
+.gitignore
+.editorconfig
+.prettierrc.json
+package.json
+**/reportWebVitals.ts
+**/setupTest.ts
+**/react-app-env.d.ts
